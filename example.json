@@ -1,0 +1,166 @@
+[
+  {
+    "cost": 0.8,
+    "description": "Coffee",
+    "id": 111010,
+    "modifiers": [
+      {
+        "name": "Medium",
+        "price": 0.0
+      },
+      {
+        "name": "Small",
+        "price": -0.25
+      },
+      {
+        "name": "Large",
+        "price": 0.3
+      }
+    ],
+    "price": 1.25,
+    "price_type": "system",
+    "quantity_on_hand": 100000
+  },
+  {
+    "cost": null,
+    "description": "Delivery",
+    "id": 111784,
+    "modifiers": [],
+    "price": null,
+    "price_type": "open",
+    "quantity_on_hand": null
+  },
+  {
+    "cost": 2.0,
+    "description": "Bagel",
+    "id": 111022,
+    "modifiers": [
+      {
+        "price": 1.0
+      }
+    ],
+    "price": 3.45,
+    "price_type": "system",
+    "quantity_on_hand": 9855
+  },
+  {
+    "cost": null,
+    "description": "Orange Juice",
+    "id": 2847224,
+    "modifiers": [
+      {
+        "name": "Medium",
+        "price": 1.0
+      },
+      {
+        "name": "Small",
+        "price": 0.0
+      },
+      {
+        "name": "Large",
+        "price": 2.5
+      }
+    ],
+    "price": 68.57,
+    "price_type": "system",
+    "quantity_on_hand": 0
+  },
+  {
+    "cost": 49.0,
+    "description": "Milk",
+    "id": 2847225,
+    "modifiers": [],
+    "price": 70.0,
+    "price_type": "system",
+    "quantity_on_hand": 510
+  },
+  {
+    "cost": null,
+    "description": "Ciabatta",
+    "id": 2847226,
+    "modifiers": [],
+    "price": 71.43,
+    "price_type": "system",
+    "quantity_on_hand": 0
+  },
+  {
+    "cost": null,
+    "description": "baguette",
+    "id": 2847227,
+    "modifiers": [],
+    "price": 0.0,
+    "price_type": "open",
+    "quantity_on_hand": 0
+  },
+  {
+    "cost": null,
+    "description": "Sour Dough Boule",
+    "id": 2847228,
+    "modifiers": [],
+    "price": 74.29,
+    "price_type": "system",
+    "quantity_on_hand": 0
+  },
+  {
+    "cost": null,
+    "description": "Whole Coffee Cake",
+    "id": 2847244,
+    "modifiers": [],
+    "price": 0.0,
+    "price_type": "open",
+    "quantity_on_hand": 0
+  },
+  {
+    "cost": null,
+    "description": "Country Wht Boule",
+    "id": 2847229,
+    "modifiers": [],
+    "price": 75.71,
+    "price_type": "system",
+    "quantity_on_hand": 0
+  },
+  {
+    "cost": null,
+    "description": "Semolina Batard",
+    "id": 2847230,
+    "modifiers": [],
+    "price": 77.14,
+    "price_type": "system",
+    "quantity_on_hand": 0
+  },
+  {
+    "cost": null,
+    "description": "Multigrain Batard",
+    "id": 2847231,
+    "modifiers": [],
+    "price": 78.57,
+    "price_type": "system",
+    "quantity_on_hand": 0
+  },
+  {
+    "cost": 56.0,
+    "description": "Focaccia",
+    "id": 2847232,
+    "modifiers": [],
+    "price": 80.0,
+    "price_type": "system",
+    "quantity_on_hand": 440
+  },
+  {
+    "cost": null,
+    "description": "Rolls",
+    "id": 2847233,
+    "modifiers": [
+      {
+        "price": 1.12
+      },
+      {
+        "name": "Jelly",
+        "price": 0.75
+      }
+    ],
+    "price": 81.43,
+    "price_type": "system",
+    "quantity_on_hand": 0
+  }
+]
